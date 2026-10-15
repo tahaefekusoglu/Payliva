@@ -10,6 +10,8 @@ permalink: /support
 Payliva ile ilgili soru, öneri ve sorunlarınız için bize e-posta gönderin:
 **[enterbossapp@gmail.com](mailto:enterbossapp@gmail.com)**
 
+Payliva'yı **Taha Efe Kuşoğlu** ve **Berke Kaan Dinler** geliştirdi.
+
 Payliva verilerinizi toplamadığı için hesabınıza ya da kayıtlarınıza biz erişemeyiz. Yazarken cihaz modelinizi, iOS sürümünüzü ve sorunu adım adım anlatmanız yardımcı olur.
 
 **Sık sorulanlar**
@@ -25,6 +27,8 @@ Payliva verilerinizi toplamadığı için hesabınıza ya da kayıtlarınıza bi
 
 For questions, suggestions or problems with Payliva, email us:
 **[enterbossapp@gmail.com](mailto:enterbossapp@gmail.com)**
+
+Payliva is developed by **Taha Efe Kuşoğlu** and **Berke Kaan Dinler**.
 
 Payliva does not collect your data, so we cannot access your account or records. Including your device model, iOS version and the steps to reproduce the problem helps.
 
