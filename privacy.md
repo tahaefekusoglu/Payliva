@@ -25,11 +25,11 @@ Bu veriler bize veya üçüncü kişilere gönderilmez. Uygulama, verilerinizi i
 
 ## 2. Hesap ve sunucu
 
-Payliva'de hesap açılmaz. Ad, e-posta, telefon numarası veya banka bilgisi istenmez. Uygulama banka hesaplarınıza bağlanmaz.
+Payliva'da hesap açılmaz. Ad, e-posta, telefon numarası veya banka bilgisi istenmez. Uygulama banka hesaplarınıza bağlanmaz.
 
 ## 3. iCloud yedeği
 
-iCloud Drive açıksa uygulama, arka plana geçtiğinde veritabanının bir kopyasını (görünen ad dahil) otomatik olarak kendi Apple iCloud hesabınızdaki uygulamaya ait alana yedekler. Ayarlar'daki "iCloud yedeği" satırından elle de yedekleyebilirsiniz. Otomatik yedeği durdurmak için iPhone Ayarları'nda iCloud Drive kullanan uygulamalar arasından Payliva'i kapatabilirsiniz. Bu kopyaya bizim erişimimiz yoktur; Apple'ın iCloud koşulları ve gizlilik politikası geçerlidir.
+iCloud Drive açıksa uygulama, arka plana geçtiğinde veritabanının bir kopyasını (görünen ad dahil) otomatik olarak kendi Apple iCloud hesabınızdaki uygulamaya ait alana yedekler. Ayarlar'daki "iCloud yedeği" satırından elle de yedekleyebilirsiniz. Otomatik yedeği durdurmak için iPhone Ayarları'nda iCloud Drive kullanan uygulamalar arasından Payliva'yı kapatabilirsiniz. Bu kopyaya bizim erişimimiz yoktur; Apple'ın iCloud koşulları ve gizlilik politikası geçerlidir.
 
 Ayrıca iPhone'unuzun Apple tarafından sunulan standart cihaz yedeği (iCloud Yedeği veya bilgisayar yedeği) açıksa, uygulama verileri de bu cihaz yedeğine dahil olabilir. Bu yedek de yalnızca sizin hesabınızda veya bilgisayarınızda bulunur.
 
