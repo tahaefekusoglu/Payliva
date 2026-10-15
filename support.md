@@ -1,0 +1,36 @@
+---
+layout: default
+title: Payliva — Destek / Support
+lang: tr
+permalink: /support
+---
+
+# Destek
+
+Payliva ile ilgili soru, öneri ve sorunlarınız için bize e-posta gönderin:
+**[enterbossapp@gmail.com](mailto:enterbossapp@gmail.com)**
+
+Payliva verilerinizi toplamadığı için hesabınıza ya da kayıtlarınıza biz erişemeyiz. Yazarken cihaz modelinizi, iOS sürümünüzü ve sorunu adım adım anlatmanız yardımcı olur.
+
+**Sık sorulanlar**
+
+- **Verilerim nerede?** Yalnız cihazınızda; iCloud Drive açıksa ayrıca kendi iCloud hesabınızda otomatik yedek olarak.
+- **Telefon değiştirdim, verilerim nasıl gelir?** Yeni telefonda aynı Apple kimliğiyle iCloud Drive açıkken Payliva'nın ilk ekranında ya da Ayarlar'da "Yedekten geri yükle"yi seçin.
+- **Pro satın alımımı nasıl geri getiririm?** Ayarlar'da "Satın alımları geri yükle".
+- **İade:** Satın almalar Apple üzerinden yapılır; iade talepleri [Apple'a](https://reportaproblem.apple.com) iletilir.
+
+---
+
+# Support
+
+For questions, suggestions or problems with Payliva, email us:
+**[enterbossapp@gmail.com](mailto:enterbossapp@gmail.com)**
+
+Payliva does not collect your data, so we cannot access your account or records. Including your device model, iOS version and the steps to reproduce the problem helps.
+
+**FAQ**
+
+- **Where is my data?** Only on your device; if iCloud Drive is on, also as an automatic backup in your own iCloud account.
+- **I changed phones — how do I get my data back?** On the new phone, with iCloud Drive on under the same Apple ID, choose "Restore from backup" on Payliva's first screen or in Settings.
+- **How do I restore my Pro purchase?** "Restore purchases" in Settings.
+- **Refunds:** Purchases are made through Apple; refund requests go to [Apple](https://reportaproblem.apple.com).
