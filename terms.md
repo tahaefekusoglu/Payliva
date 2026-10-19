@@ -42,7 +42,7 @@ Payliva Pro, ek özellikleri açan tek seferlik bir uygulama içi satın almadı
 
 Pro satın alımınızı aynı Apple Kimliği ile kullandığınız cihazlarda "Satın alımları geri yükle" seçeneğiyle geri yükleyebilirsiniz. Satın alma Apple tarafından iade edilir veya iptal edilirse Pro özellikleri kapanır; uygulamadaki verileriniz silinmez.
 
-Ücretsiz sürümün ve Pro'nun kapsamı ileride değişebilir. Satın almış olduğunuz Pro özelliklerini, makul olmayan bir gerekçe olmadan geri almayız.
+Ücretsiz sürümün ve Pro'nun kapsamı ileride değişebilir. Makul bir gerekçe olmadan satın aldığınız Pro özelliklerini kaldırmayız.
 
 ## 6. Kabul edilebilir kullanım
 

@@ -25,11 +25,11 @@ This data is never sent to us or to third parties. The App does not connect to a
 
 ## 2. Accounts and servers
 
-Payliva has no sign-up. We do not ask for your name, e-mail, phone number or bank details. The App does not connect to your bank accounts.
+Payliva has no sign-up. We do not ask for your e-mail, phone number or bank details; entering a display name for the greeting is optional (see Display name). The App does not connect to your bank accounts.
 
 ## 3. iCloud backup
 
-When iCloud Drive is on, the App automatically backs up a copy of the App database (including the display name) to the App's area in your own Apple iCloud account whenever it moves to the background. You can also back up manually from the "iCloud backup" row in Settings. To stop automatic backups, turn Payliva off among the apps using iCloud Drive in iPhone Settings. We cannot access this copy; Apple's iCloud terms and privacy policy apply.
+When iCloud Drive is on, the App attempts to back up a copy of the App database (including the display name) to the App's area in your own Apple iCloud account when it moves to the background, at least 4 hours after the last automatic backup. You can also back up manually from the "iCloud backup" row in Settings. To stop automatic backups, turn Payliva off among the apps using iCloud Drive in iPhone Settings. We cannot access this copy; Apple's iCloud terms and privacy policy apply.
 
 In addition, if your iPhone's standard device backup provided by Apple (iCloud Backup or a computer backup) is turned on, App data may be included in that device backup. That backup also stays only in your account or on your computer.
 

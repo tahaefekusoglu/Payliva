@@ -15,7 +15,7 @@ Yürürlük tarihi: 16 Ekim 2026
 
 Payliva mobil uygulaması çerez, piksel, cihaz parmak izi veya benzeri izleme teknolojisi kullanmaz. Uygulama içinde web sayfası gösterilmez; reklam ve analitik aracı bulunmaz.
 
-Uygulama, ayarlarınızı ve verilerinizi yalnızca kendi çalışması için cihazınızdaki uygulama veritabanında saklar. Bu bilgiler sizi tanımak veya izlemek için kullanılmaz ve cihazdan çıkmaz.
+Uygulama, ayarlarınızı ve verilerinizi yalnızca kendi çalışması için cihazınızdaki uygulama veritabanında saklar. Bu bilgiler sizi tanımak veya izlemek için kullanılmaz; yalnızca sizin açtığınız iCloud yedeği ve sizin başlattığınız dışa aktarma ile cihaz dışına çıkar (bkz. Gizlilik Politikası).
 
 ## Web sayfamız
 

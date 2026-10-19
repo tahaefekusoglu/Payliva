@@ -15,7 +15,7 @@ Effective date: October 16, 2026
 
 The Payliva mobile app does not use cookies, pixels, device fingerprinting or similar tracking technologies. No web pages are shown inside the App, and it contains no ads or analytics tools.
 
-The App stores your settings and data only in its own database on your device, solely so that it can work. This information is not used to identify or track you and does not leave your device.
+The App stores your settings and data only in its own database on your device, solely so that it can work. This information is not used to identify or track you; it leaves your device only through the iCloud backup you turn on and exports you start (see the Privacy Policy).
 
 ## Our web page
 
