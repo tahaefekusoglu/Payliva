@@ -29,7 +29,7 @@ Payliva'da hesap açılmaz. E-posta, telefon numarası veya banka bilgisi istenm
 
 ## 3. iCloud yedeği
 
-iCloud Drive açıksa uygulama, arka plana geçtiğinde veritabanının bir kopyasını (görünen ad dahil) kendi Apple iCloud hesabınızdaki uygulamaya ait alana otomatik olarak yedeklemeyi dener; otomatik yedekler arasında en az 4 saat bulunur. Ayarlar'daki "iCloud yedeği" satırından elle de yedekleyebilirsiniz. Otomatik yedeği durdurmak için iPhone Ayarları'nda iCloud Drive kullanan uygulamalar arasından Payliva'yı kapatabilirsiniz. Bu kopyaya bizim erişimimiz yoktur; Apple'ın iCloud koşulları ve gizlilik politikası geçerlidir.
+iCloud Drive açıksa uygulama, arka plana geçtiğinde veritabanının bir kopyasını (görünen ad dahil) kendi Apple iCloud hesabınızdaki uygulamaya ait alana otomatik olarak yedeklemeyi dener; ne sıklıkla yedekleneceğini (her çıkışta, saatte bir, günde bir ya da kapalı) Ayarlar'daki "Otomatik yedek" satırından seçersiniz. "iCloud yedeği" satırından elle de yedekleyebilirsiniz. iCloud'a yedeği tamamen durdurmak için iPhone Ayarları'nda iCloud Drive kullanan uygulamalar arasından Payliva'yı da kapatabilirsiniz. Bu kopyaya bizim erişimimiz yoktur; Apple'ın iCloud koşulları ve gizlilik politikası geçerlidir.
 
 Ayrıca iPhone'unuzun Apple tarafından sunulan standart cihaz yedeği (iCloud Yedeği veya bilgisayar yedeği) açıksa, uygulama verileri de bu cihaz yedeğine dahil olabilir. Bu yedek de yalnızca sizin hesabınızda veya bilgisayarınızda bulunur.
 
