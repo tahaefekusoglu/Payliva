@@ -35,7 +35,7 @@ In addition, if your iPhone's standard device backup provided by Apple (iCloud B
 
 ## 4. CSV export
 
-If you choose to export your data as a CSV file, the file is sent to the app or location you choose in the iOS share sheet (for example Mail or Files). This only happens when you start it. Once the file is shared, the terms of the destination apply.
+If you choose to export your data as CSV, two files (transactions and a cycle/type summary) are sent to the app or location you choose in the iOS share sheet (for example Mail or Files). This only happens when you start it. Once the files are shared, the terms of the destination apply.
 
 ## 5. Purchases
 

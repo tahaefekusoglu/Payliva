@@ -35,7 +35,7 @@ Ayrıca iPhone'unuzun Apple tarafından sunulan standart cihaz yedeği (iCloud Y
 
 ## 4. CSV dışa aktarma
 
-Verilerinizi CSV dosyası olarak dışa aktarmayı seçerseniz dosya, iOS paylaşım ekranında sizin seçtiğiniz uygulamaya veya konuma (örneğin Mail, Dosyalar) gönderilir. Bu aktarım yalnızca siz başlattığınızda gerçekleşir. Dosya bir kez paylaşıldıktan sonra, gönderdiğiniz yerin kendi koşulları geçerlidir.
+Verilerinizi CSV olarak dışa aktarmayı seçerseniz iki dosya (işlemler ve döngü/tür özeti), iOS paylaşım ekranında sizin seçtiğiniz uygulamaya veya konuma (örneğin Mail, Dosyalar) gönderilir. Bu aktarım yalnızca siz başlattığınızda gerçekleşir. Dosyalar paylaşıldıktan sonra, gönderdiğiniz yerin kendi koşulları geçerlidir.
 
 ## 5. Satın almalar
 
