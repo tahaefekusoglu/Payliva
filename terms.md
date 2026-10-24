@@ -11,7 +11,7 @@ permalink: /terms
 
 Yürürlük tarihi: 16 Ekim 2026
 
-Bu koşullar, Taha Efe Kusoglu ("biz") tarafından geliştirilen Payliva mobil uygulamasının ("Uygulama") kullanımını düzenler. Uygulamayı indirerek veya kullanarak bu koşulları kabul etmiş olursunuz.
+Bu koşullar, Taha Efe Kusoglu ve Berke Kaan Dinler ("biz") tarafından birlikte geliştirilen Payliva mobil uygulamasının ("Uygulama") kullanımını düzenler. Uygulamayı indirerek veya kullanarak bu koşulları kabul etmiş olursunuz.
 
 ## 1. Lisans
 

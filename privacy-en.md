@@ -19,17 +19,17 @@ Payliva does not collect your data. Everything you enter stays on your device an
 
 ## 1. Data stored in the App
 
-The income and expenses, amounts, notes, dates, tax and fund rates, category, type and bucket names, recurring transactions, expected income, your settings and the optional display name you enter are stored only in the App's database on your device.
+The income and expenses, amounts, notes, dates, tax and fund rates, category, type and bucket names, recurring transactions, expected income, saved calculations, your settings and the optional name you enter are stored only in the App's database on your device.
 
 This data is never sent to us or to third parties. The App does not connect to any server to process your data.
 
 ## 2. Accounts and servers
 
-Payliva has no sign-up. We do not ask for your e-mail, phone number or bank details; entering a display name for the greeting is optional (see Display name). The App does not connect to your bank accounts.
+Payliva has no sign-up. We do not ask for your e-mail, phone number or bank details; entering a name for the greeting is optional (see Name). The App does not connect to your bank accounts.
 
 ## 3. iCloud backup
 
-When iCloud Drive is on, the App attempts to back up a copy of the App database (including the display name) to the App's area in your own Apple iCloud account when it moves to the background; you choose how often (every time you leave, hourly, daily or off) in the "Automatic backup" row in Settings. You can also back up manually from the "iCloud backup" row. To stop iCloud backups entirely, you can also turn Payliva off among the apps using iCloud Drive in iPhone Settings. We cannot access this copy; Apple's iCloud terms and privacy policy apply.
+When iCloud Drive is on, the App attempts to back up a copy of the App database (including the name) to the App's area in your own Apple iCloud account when it moves to the background; you choose how often (every time you leave, hourly, daily or off) in the "Automatic backup" row under Settings › Data & backup. You can also back up manually from the "iCloud backup" row on the same page. To stop iCloud backups entirely, you can also turn Payliva off among the apps using iCloud Drive in iPhone Settings. We cannot access this copy; Apple's iCloud terms and privacy policy apply.
 
 In addition, if your iPhone's standard device backup provided by Apple (iCloud Backup or a computer backup) is turned on, App data may be included in that device backup. That backup also stays only in your account or on your computer.
 
@@ -43,7 +43,7 @@ Payliva Pro is a one-time in-app purchase made through the Apple App Store. Appl
 
 ## 6. Notifications
 
-If you turn on reminders (cycle end, leftover decision, tax day), they are scheduled only on your device. No server is involved and no data leaves your device. All reminders are off by default. Notification permission is only requested when you turn a reminder on, and you can turn them off in Settings at any time.
+If you turn on notifications (cycle end, leftover decision, tax reminder, upcoming payments, low balance, recurring income and expected income reminders), they are scheduled only on your device. No server is involved and no data leaves your device. All reminders are off by default. Notification permission is only requested when you turn a reminder on, and you can turn them off in Settings at any time.
 
 ## 7. Analytics, ads and tracking
 
@@ -51,9 +51,9 @@ The App contains no analytics tools, ads or trackers. No usage statistics are co
 
 If you have turned on "Share with App Developers" in your device settings, Apple may share crash reports and technical performance data with us in a form that does not identify you. Apple operates this sharing; you can turn it off in iPhone Settings > Privacy & Security > Analytics & Improvements.
 
-## 8. Display name
+## 8. Name
 
-You may optionally enter a display name. It is stored on your device and, when iCloud Drive is on, included in the automatic backup. It is used only for the greeting in the App. You can change or remove it in Settings at any time; backups taken after that no longer contain it.
+You may optionally enter a name. It is stored on your device and, when iCloud Drive is on, included in the automatic backup. It is used only for the greeting in the App. You can change or remove it in Settings at any time; backups taken after that no longer contain it.
 
 ## 9. When you contact us
 
@@ -69,7 +69,7 @@ Support correspondence is deleted within a reasonable time after your request is
 
 ## 11. Security
 
-Your data is protected on your device in the isolated area iOS provides for apps and by device encryption. The iCloud backup is protected by Apple's iCloud security measures. We recommend using a device passcode.
+Your data is protected on your device in the isolated area iOS provides for apps and by device encryption. The iCloud backup is protected by Apple's iCloud security measures. If you turn on the app lock, iOS performs the Face ID, Touch ID or device passcode check; the App only learns whether it succeeded and never accesses your biometric data. We recommend using a device passcode.
 
 ## 12. Children
 

@@ -11,7 +11,7 @@ permalink: /terms-en
 
 Effective date: October 16, 2026
 
-These terms govern your use of the Payliva mobile app (the "App") developed by Taha Efe Kusoglu ("we", "us"). By downloading or using the App you agree to these terms.
+These terms govern your use of the Payliva mobile app (the "App") developed by Taha Efe Kusoglu and Berke Kaan Dinler together ("we", "us"). By downloading or using the App you agree to these terms.
 
 ## 1. Licence
 

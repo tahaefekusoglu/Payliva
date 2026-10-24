@@ -19,17 +19,17 @@ Payliva verilerinizi toplamaz. Uygulamaya girdiğiniz her şey cihazınızda; iC
 
 ## 1. Uygulamada saklanan veriler
 
-Uygulamaya girdiğiniz gelir ve giderler, tutarlar, notlar, tarihler, vergi ve fon oranları, kategori, tür ve kova adları, tekrarlayan işlemler, beklenen gelirler, ayarlarınız ve isteğe bağlı olarak girdiğiniz görünen ad, yalnızca cihazınızdaki uygulama veritabanında saklanır.
+Uygulamaya girdiğiniz gelir ve giderler, tutarlar, notlar, tarihler, vergi ve fon oranları, kategori, tür ve kova adları, tekrarlayan işlemler, beklenen gelirler, kayıtlı hesaplamalar, ayarlarınız ve isteğe bağlı olarak girdiğiniz isim, yalnızca cihazınızdaki uygulama veritabanında saklanır.
 
 Bu veriler bize veya üçüncü kişilere gönderilmez. Uygulama, verilerinizi işlemek için herhangi bir sunucuya bağlanmaz.
 
 ## 2. Hesap ve sunucu
 
-Payliva'da hesap açılmaz. E-posta, telefon numarası veya banka bilgisi istenmez; hitap için bir görünen ad girmek isteğe bağlıdır (bkz. Görünen ad). Uygulama banka hesaplarınıza bağlanmaz.
+Payliva'da hesap açılmaz. E-posta, telefon numarası veya banka bilgisi istenmez; selamlama için bir isim girmek isteğe bağlıdır (bkz. İsim). Uygulama banka hesaplarınıza bağlanmaz.
 
 ## 3. iCloud yedeği
 
-iCloud Drive açıksa uygulama, arka plana geçtiğinde veritabanının bir kopyasını (görünen ad dahil) kendi Apple iCloud hesabınızdaki uygulamaya ait alana otomatik olarak yedeklemeyi dener; ne sıklıkla yedekleneceğini (her çıkışta, saatte bir, günde bir ya da kapalı) Ayarlar'daki "Otomatik yedek" satırından seçersiniz. "iCloud yedeği" satırından elle de yedekleyebilirsiniz. iCloud'a yedeği tamamen durdurmak için iPhone Ayarları'nda iCloud Drive kullanan uygulamalar arasından Payliva'yı da kapatabilirsiniz. Bu kopyaya bizim erişimimiz yoktur; Apple'ın iCloud koşulları ve gizlilik politikası geçerlidir.
+iCloud Drive açıksa uygulama, arka plana geçtiğinde veritabanının bir kopyasını (isim dahil) kendi Apple iCloud hesabınızdaki uygulamaya ait alana otomatik olarak yedeklemeyi dener; ne sıklıkla yedekleneceğini (her çıkışta, saatte bir, günde bir ya da kapalı) Ayarlar › Veri ve yedekleme'deki "Otomatik yedek" satırından seçersiniz. Aynı sayfadaki "iCloud yedeği" satırından elle de yedekleyebilirsiniz. iCloud'a yedeği tamamen durdurmak için iPhone Ayarları'nda iCloud Drive kullanan uygulamalar arasından Payliva'yı da kapatabilirsiniz. Bu kopyaya bizim erişimimiz yoktur; Apple'ın iCloud koşulları ve gizlilik politikası geçerlidir.
 
 Ayrıca iPhone'unuzun Apple tarafından sunulan standart cihaz yedeği (iCloud Yedeği veya bilgisayar yedeği) açıksa, uygulama verileri de bu cihaz yedeğine dahil olabilir. Bu yedek de yalnızca sizin hesabınızda veya bilgisayarınızda bulunur.
 
@@ -43,7 +43,7 @@ Payliva Pro tek seferlik bir uygulama içi satın almadır ve Apple App Store ü
 
 ## 6. Bildirimler
 
-Hatırlatmaları (döngü bitimi, kalan kararı, vergi günü) açarsanız bunlar yalnızca cihazınızda planlanır. Sunucu kullanılmaz ve hiçbir veri cihazdan çıkmaz. Tüm hatırlatmalar varsayılan olarak kapalıdır. Bildirim izni yalnızca bir hatırlatmayı açtığınızda istenir; Ayarlar'dan istediğiniz zaman kapatabilirsiniz.
+Bildirimleri (döngü bitimi, kalan kararı, vergi hatırlatması, yaklaşan ödemeler, bakiye yetersizliği, düzenli gelir ve beklenen gelir hatırlatmaları) açarsanız bunlar yalnızca cihazınızda planlanır. Sunucu kullanılmaz ve hiçbir veri cihazdan çıkmaz. Tüm hatırlatmalar varsayılan olarak kapalıdır. Bildirim izni yalnızca bir hatırlatmayı açtığınızda istenir; Ayarlar'dan istediğiniz zaman kapatabilirsiniz.
 
 ## 7. Analitik, reklam ve izleme
 
@@ -51,9 +51,9 @@ Uygulamada analitik aracı, reklam ve izleyici bulunmaz. Kullanım istatistiği 
 
 Cihaz ayarlarınızda "Uygulama geliştiricileriyle paylaş" seçeneğini açtıysanız Apple, çökme raporlarını ve uygulama performansına ilişkin teknik verileri sizi tanımlamayacak biçimde bize iletebilir. Bu paylaşımı Apple yürütür ve iPhone Ayarlar > Gizlilik ve Güvenlik > Analiz ve İyileştirmeler bölümünden kapatabilirsiniz.
 
-## 8. Görünen ad
+## 8. İsim
 
-İsteğe bağlı olarak bir görünen ad girebilirsiniz. Bu ad cihazınızda saklanır; iCloud Drive açıksa otomatik yedeğe de dahil edilir. Yalnızca uygulamadaki selamlamada kullanılır. Ayarlar'dan istediğiniz zaman değiştirebilir veya silebilirsiniz; sildikten sonra alınan yedeklerde yer almaz.
+İsteğe bağlı olarak bir isim girebilirsiniz. Bu isim cihazınızda saklanır; iCloud Drive açıksa otomatik yedeğe de dahil edilir. Yalnızca uygulamadaki selamlamada kullanılır. Ayarlar'dan istediğiniz zaman değiştirebilir veya silebilirsiniz; sildikten sonra alınan yedeklerde yer almaz.
 
 ## 9. Bizimle iletişim kurduğunuzda
 
@@ -69,7 +69,7 @@ Destek yazışmaları, talebiniz sonuçlandıktan sonra makul bir süre içinde 
 
 ## 11. Güvenlik
 
-Verileriniz cihazınızda, iOS'un uygulamalar için sağladığı yalıtılmış alanda ve cihaz şifrelemesiyle korunur. iCloud yedeği Apple'ın iCloud güvenlik önlemleriyle korunur. Cihazınızın kilit ekranı şifresini kullanmanızı öneririz.
+Verileriniz cihazınızda, iOS'un uygulamalar için sağladığı yalıtılmış alanda ve cihaz şifrelemesiyle korunur. iCloud yedeği Apple'ın iCloud güvenlik önlemleriyle korunur. Uygulama kilidini açarsanız Face ID, Touch ID ya da cihaz şifresi doğrulamasını iOS yapar; uygulama yalnızca doğrulamanın başarılı olup olmadığını öğrenir, biyometrik verilerinize erişmez. Cihazınızın kilit ekranı şifresini kullanmanızı öneririz.
 
 ## 12. Çocuklar
 

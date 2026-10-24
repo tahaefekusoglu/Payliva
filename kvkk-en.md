@@ -20,7 +20,7 @@ E-mail: [enterbossapp@gmail.com](mailto:enterbossapp@gmail.com)
 
 ## 2. Data you enter in the App
 
-The income, expenses, rates, categories, notes, display name and settings you enter in Payliva are stored only on your device and, when iCloud Drive is on, in your own iCloud account as an automatic backup. We have no access to this data; we do not collect, transfer or process it. We therefore carry out no processing of personal data with respect to this data.
+The income, expenses, rates, categories, notes, name and settings you enter in Payliva are stored only on your device and, when iCloud Drive is on, in your own iCloud account as an automatic backup. We have no access to this data; we do not collect, transfer or process it. We therefore carry out no processing of personal data with respect to this data.
 
 Apple operates in-app purchases and the iCloud service independently under its own privacy policy.
 

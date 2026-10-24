@@ -20,7 +20,7 @@ E-posta: [enterbossapp@gmail.com](mailto:enterbossapp@gmail.com)
 
 ## 2. Uygulamaya girdiğiniz veriler
 
-Payliva'ya girdiğiniz gelir, gider, oran, kategori, not, görünen ad ve ayar bilgileri yalnızca sizin cihazınızda ve iCloud Drive açıksa otomatik yedek olarak kendi iCloud hesabınızda saklanır. Bu verilere erişimimiz yoktur; bunları toplamaz, aktarmaz ve işlemeyiz. Bu nedenle bu veriler bakımından tarafımızca yürütülen bir kişisel veri işleme faaliyeti bulunmamaktadır.
+Payliva'ya girdiğiniz gelir, gider, oran, kategori, not, isim ve ayar bilgileri yalnızca sizin cihazınızda ve iCloud Drive açıksa otomatik yedek olarak kendi iCloud hesabınızda saklanır. Bu verilere erişimimiz yoktur; bunları toplamaz, aktarmaz ve işlemeyiz. Bu nedenle bu veriler bakımından tarafımızca yürütülen bir kişisel veri işleme faaliyeti bulunmamaktadır.
 
 Uygulama içi satın alma işlemlerini ve iCloud hizmetini Apple, kendi gizlilik politikası çerçevesinde bağımsız olarak yürütür.
 
