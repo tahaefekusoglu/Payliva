@@ -77,7 +77,7 @@ Payliva genel amaçlı bir kişisel bütçe aracıdır ve çocuklara yönelik de
 
 ## 13. Haklarınız
 
-Uygulamadaki verileriniz yalnızca sizin kontrolünüzdedir: Uygulama içinden görüntüleyebilir, düzenleyebilir, silebilir ve CSV olarak dışa aktarabilirsiniz. Bizimle paylaştığınız veriler (destek yazışmaları) için 6698 sayılı Kişisel Verilerin Korunması Kanunu ve Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) kapsamındaki haklarınız KVKK Aydınlatma Metni'nde açıklanmıştır.
+Uygulamadaki verileriniz yalnızca sizin kontrolünüzdedir: Uygulama içinden görüntüleyebilir, düzenleyebilir, silebilir ve CSV olarak dışa aktarabilirsiniz (ücretsiz sürümde son 3 döngü, Pro ile tüm geçmiş). Bizimle paylaştığınız veriler (destek yazışmaları) için 6698 sayılı Kişisel Verilerin Korunması Kanunu ve Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) kapsamındaki haklarınız KVKK Aydınlatma Metni'nde açıklanmıştır.
 
 ## 14. Değişiklikler
 

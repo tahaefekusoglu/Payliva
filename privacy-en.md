@@ -77,7 +77,7 @@ Payliva is a general-purpose personal budgeting tool and is not directed at chil
 
 ## 13. Your rights
 
-The data in the App is under your control only: you can view, edit, delete and export it as CSV within the App. For data you share with us (support correspondence), your rights under the Turkish Personal Data Protection Law No. 6698 (KVKK) and the EU General Data Protection Regulation (GDPR) are explained in the KVKK Information Notice.
+The data in the App is under your control only: you can view, edit, delete and export it as CSV within the App (the last 3 cycles in the free version, your whole history with Pro). For data you share with us (support correspondence), your rights under the Turkish Personal Data Protection Law No. 6698 (KVKK) and the EU General Data Protection Regulation (GDPR) are explained in the KVKK Information Notice.
 
 ## 14. Changes
 
